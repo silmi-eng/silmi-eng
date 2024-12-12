@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**silmi-eng/silmi-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 🐙
 
-Here are some ideas to get you started:
+Curious about my skills? Click to explore my [_portfolio_ ✨](https://leandrmachados-projects.vercel.app/portfolio/) and see some of my latest projects!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages:
+<img align="center" alt="Skills" src="https://skillicons.dev/icons?i=js,ts,c,cs,cpp,py,css,html&perline=6">
+
+### Tools:
+<img align="center" alt="Skills" src="https://skillicons.dev/icons?i=react,nodejs,git,github,vscode,postman,postgres,vercel,docker,ubuntu,unity,figma,notion,firebase&perline=10">
+
+## Personal Projects:
+
+In addition to my professional experience, I also work on personal projects to challenge myself and stay
+up-to-date with the latest technologies.
